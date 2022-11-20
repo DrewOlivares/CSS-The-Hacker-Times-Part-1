@@ -39,16 +39,20 @@ h2 {
     background: white;
     box-shadow: #ddd;
 }
+main {
+    display: inline-block;
+    width: 50em;
+}
 main h5 {
     color: #dd3232;
+    font-size: medium;
+    margin-top: -1em;
 }
 h4 {
-    font-weight: 800;
+    font-size: large;
 }
 section{
     display: inline-block;
-    width: 15%;
-    margin: 2em;
-
-
+    width: 20em;
+    margin: 1em;
 }
